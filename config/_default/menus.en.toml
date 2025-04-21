@@ -1,0 +1,11 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Blogs"
+pageRef = "blogs"
+identifier = "O2yoyGnVHs"
+weight = 9999
+
+[[footer]]
+none = "none"

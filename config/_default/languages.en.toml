@@ -1,0 +1,16 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Jatery Chen"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "-lyeap1.jpg"
+author = { name = "Jatery Chen", bio = "yeah." }
+
+[params.author]
+bio = "yeah."

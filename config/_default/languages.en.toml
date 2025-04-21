@@ -12,5 +12,3 @@ dateFormat = "2 January 2006"
 logo = "-lyeap1.jpg"
 author = { name = "Jatery Chen", bio = "yeah." }
 
-[params.author]
-bio = "yeah."

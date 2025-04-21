@@ -1,11 +1,16 @@
 [[main]]
-none = "none"
+    none = "none"
 
 [[main]]
-name = "Blogs"
-pageRef = "blogs"
-identifier = "O2yoyGnVHs"
-weight = 9999
+    name = "Blogs"
+    pageRef = "blogs"
+    identifier = "O2yoyGnVHs"
+    weight = 10
+
+[[main]]
+    name = "Tags"
+    pageRef = "tags"
+    weight = 20
 
 [[footer]]
-none = "none"
+    none = "none"

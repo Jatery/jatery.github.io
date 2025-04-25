@@ -18,10 +18,10 @@
     headline = "Why I'm writing this?"
     bio = "anxious undergraduate"
     links = [
-        { github = "https://github.com/Jatery" }
-        { linkedin = "www.linkedin.com/in/彥璋-陳-80a368356" }
-        { x-twitter = "https://x.com/bluefatbird" }
-        { youtube = "https://www.youtube.com/@bluefatbird" }
-        { soundcloud = "https://soundcloud.com/bluefatbird" }
-        { instagram = "https://www.instagram.com/cyz_jatery/" }
+        { github = "https://github.com/Jatery" },
+        { linkedin = "www.linkedin.com/in/彥璋-陳-80a368356" },
+        { x-twitter = "https://x.com/bluefatbird" },
+        { youtube = "https://www.youtube.com/@bluefatbird" },
+        { soundcloud = "https://soundcloud.com/bluefatbird" },
+        { instagram = "https://www.instagram.com/cyz_jatery/" },
     ]

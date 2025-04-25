@@ -1,12 +1,12 @@
     disabled = false
-    languageCode = "zh-tw"
-    languageName = "Chinese (Traditional)"
+    languageCode = "en"
+    languageName = "English"
     weight = 1
     title = "Jatery Chen"
 
 [params]
-    displayName = "ZH-TW"
-    isoCode = "zh-tw"
+    displayName = "EN"
+    isoCode = "en"
     rtl = false
     dateFormat = "2006-01-02"
     logo = "profile.jpg"

@@ -1,14 +1,18 @@
-colorScheme = "ocean"
+colorScheme = "noir"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
+
 enableSearch = true
 enableCodeCopy = true
 replyByEmail = false
+
 disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
+
 defaultBackgroundImage = "backgroundimage.jpg"
+defaultFeaturedImage = "backgroundimage.jpg"
 
 [header]
     layout = "fixed"
@@ -38,8 +42,8 @@ defaultBackgroundImage = "backgroundimage.jpg"
     showDateOnlyInArticle = false
     showDateUpdated = false
     showAuthor = true
-    showHero = true
-    heroStyle = "background"
+    showHero = false
+    # heroStyle = "background"
     showSummary = true
     layoutBackgroundBlur = true
     layoutBackgroundHeaderSpace = true
@@ -56,7 +60,7 @@ defaultBackgroundImage = "backgroundimage.jpg"
     showTaxonomies = false
     showAuthorsBadges = false
     showWordCount = true
-    showZenMode = false
+    showZenMode = true
     showRelatedContent = true
     relatedContentLimit = 3
 

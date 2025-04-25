@@ -2,8 +2,8 @@
     none = "none"
 
 [[main]]
-    name = "Blogs"
-    pageRef = "blogs"
+    name = "Posts"
+    pageRef = "posts"
     identifier = "O2yoyGnVHs"
     weight = 10
 

@@ -63,7 +63,7 @@ private var speaker: some View { // 定義 speaker 元件的地方
 - [ ] 找到一個想「做」的題目
 - [x] 新增一個 macOS 專案
 - [ ] 透過 SwiftUI 做出一部分的畫面
-### 心得
+## 心得
 
 說實話挺入門的，但作為一個開始學習怎麼寫 iOS App 的途徑來說應該算是不錯？跟自己在做的社課介紹滿像的。感覺有空可以再打一篇 DMCC 或 NTURO 的心得。
 

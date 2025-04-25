@@ -8,9 +8,10 @@ disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
+defaultBackgroundImage = "backgroundimage.jpg"
 
 [header]
-    layout = "basic"
+    layout = "fixed"
 
 [footer]
     showMenu = true
@@ -20,15 +21,15 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
     showScrollToTop = true
 
 [homepage]
-    layout = "profile"
+    layout = "background"
     showRecent = true
-    showRecentItems = 5
+    showRecentItems = 6
     showMoreLink = true
     showMoreLinkDest = "/posts/"
-    cardView = false
+    cardView = true
     cardViewScreenWidth = false
-    layoutBackgroundBlur = ""
-    homepageImage = "."
+    layoutBackgroundBlur = true
+    homepageImage = "backgroundimage.jpg"
 
 [article]
     showDate = true
@@ -37,7 +38,9 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
     showDateOnlyInArticle = false
     showDateUpdated = false
     showAuthor = true
-    showHero = false
+    showHero = true
+    heroStyle = "background"
+    showSummary = true
     layoutBackgroundBlur = true
     layoutBackgroundHeaderSpace = true
     showBreadcrumbs = false
@@ -49,11 +52,13 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
     showPagination = true
     invertPagination = false
     showReadingTime = true
-    showTableOfContents = false
+    showTableOfContents = true
     showTaxonomies = false
     showAuthorsBadges = false
     showWordCount = true
     showZenMode = false
+    showRelatedContent = true
+    relatedContentLimit = 3
 
 [list]
     showHero = false
@@ -64,10 +69,10 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
     showViews = false
     showLikes = false
     showTableOfContents = false
-    showCards = false
+    showCards = true
     orderByWeight = false
     groupByYear = true
-    cardView = false
+    cardView = true
     cardViewScreenWidth = false
     constrainItemsWidth = false
 

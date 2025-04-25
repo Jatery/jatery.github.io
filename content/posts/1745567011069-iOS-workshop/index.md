@@ -1,5 +1,5 @@
 ---
-title: iOS Workshop
+title: iOS 工作坊
 date: 2025-04-25
 draft: false
 description: 參加 iOS 工作坊第二週的心得
@@ -7,7 +7,6 @@ tags:
   - iOS
   - Swift
 ---
-# iOS 工作坊
 
 簡單打一點上了兩週工作坊的心得，邊上邊打🙂。（還是其實是上課筆記？）
 ## 筆記

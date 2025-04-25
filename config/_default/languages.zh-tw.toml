@@ -10,7 +10,6 @@
     rtl = false
     dateFormat = "2006-01-02"
     logo = "profile.jpg"
-    author = { name = "Jatery Chen", bio = "anxious undergraduate" }
 
 [params.author]
     name = "Jatery Chen"

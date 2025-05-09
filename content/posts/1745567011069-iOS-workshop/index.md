@@ -2,13 +2,15 @@
 title: iOS 工作坊
 date: 2025-04-25
 draft: false
-description: 參加 iOS 工作坊第二週的心得
+description: 參加 iOS 工作坊的心得
 tags:
   - iOS
   - Swift
 ---
 
 簡單打一點上了兩週工作坊的心得，邊上邊打🙂。（還是其實是上課筆記？）
+
+# 第二週
 ## 筆記
 
 蘋果簽章：登入才給你簽，簽了才能上架，為了 App 不相衝，有用 reverse domain name
@@ -81,3 +83,30 @@ RAM 不太夠。至少要 16 GB 以上，感覺手邊這臺 Mac 還是買太早�
 對耶，整堂課感覺就在講一堆工具，他們也是工具控？但我們的工具控的方向感覺不太一樣，他們也覺比較像「[假宅男](https://wiwi.blog/docs/tech/fake-vs-real-tech-nerd)」？無貶義，不要打我。噢我應該也是四格派的，但可能 OS 寫一寫就會習慣兩格？沒什麼特別的堅持。
 
 後面試著寫了一下，說實話體驗滿糟的。我想說既然只是個排版的練習就拿了可能 Github 主畫面的排版來練習，但先是 CPU 跑到 100% 不說，再來是元件使用困難，就算有建議也根本不知道該用哪一個。再來是 SF Symbol 的封閉性，就說根本比不了 Font Awesome 了，看來是完全不支援這些商標的。但反觀組員都至少寫出了個像樣的東西，有人甚至已經把那個日記主畫面寫出來了，可能回去再多試一下吧。
+
+# 第四週
+
+## 筆記
+
+這週在實作一個喝水提醒的 App，有用到 Apple HealthKit 相關應用。但等等要早退就不跟著實操了。
+
+有用到 `NSHealthShareUsageDescription` 與 `NSHealthUpdateUsageDescription`，其中 Share 是讀取資料、Update 是寫入資料庫
+
+{{< alert >}}
+Note: 訊息文字至少要 12 個字元
+https://stackoverflow.com/questions/37863093/exception-nsinvalidargumentexception-nshealthupdateusagedescritption
+{{< /alert >}}
+
+在 View 裡面也可以使用 if else 語句，根據不同的變量呈現不同的畫面。
+
+{{< alert icon="lightbulb" >}}
+例如有做任務就把 streak 用亮的，反之用暗的？
+{{< /alert >}}
+
+顯式 format 的更改：
+
+```swift
+Text("\(waterIntake, format: .number.precision(.fractionLength(0)))mL")
+```
+
+也可以在裡面做四則運算

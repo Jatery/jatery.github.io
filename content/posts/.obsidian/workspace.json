@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef7ba043a7a52356",
+        "id": "40773db3cd0685b2",
         "type": "tabs",
         "children": [
           {
-            "id": "7d94a11e40f575fd",
+            "id": "f9b1d20e3b5fb181",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,15 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d94a11e40f575fd",
+  "active": "f9b1d20e3b5fb181",
   "lastOpenFiles": [
+    "1745567011069-iOS-workshop/featured.png",
     "1745567011069-iOS-workshop/index.md",
     "1746594174844-ryoku/index.md",
-    "1745567011069-iOS-workshop/featured.png",
+    "1746594174844-ryoku/featured.png",
     "1746594174844-ryoku/Pasted image 20250507150352.png",
     "myfirstpost/index.md",
     "1745480181909-probability-and-generative-art/index.md",
-    "1746594174844-ryoku/featured.png",
     "1745480181909-probability-and-generative-art/featured.png",
     "Untitled"
   ]

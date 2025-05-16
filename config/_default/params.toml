@@ -1,18 +1,22 @@
 colorScheme = "noir"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
-
 enableSearch = true
 enableCodeCopy = true
 replyByEmail = false
-
 disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
-
 defaultBackgroundImage = "backgroundimage.jpg"
 defaultFeaturedImage = "backgroundimage.jpg"
+firebase = { }
+fathomAnalytics = { }
+umamiAnalytics = { }
+selineAnalytics = { }
+buymeacoffee = { }
+verification = { }
+rssnext = { }
 
 [header]
     layout = "fixed"
@@ -25,7 +29,7 @@ defaultFeaturedImage = "backgroundimage.jpg"
     showScrollToTop = true
 
 [homepage]
-    layout = "background"
+    layout = "page"
     showRecent = true
     showRecentItems = 6
     showMoreLink = true
@@ -43,7 +47,6 @@ defaultFeaturedImage = "backgroundimage.jpg"
     showDateUpdated = false
     showAuthor = true
     showHero = false
-    # heroStyle = "background"
     showSummary = true
     layoutBackgroundBlur = true
     layoutBackgroundHeaderSpace = true
@@ -101,17 +104,3 @@ defaultFeaturedImage = "backgroundimage.jpg"
     groupByYear = false
     cardView = ""
     cardViewScreenWidth = false
-
-[firebase]
-
-[fathomAnalytics]
-
-[umamiAnalytics]
-
-[selineAnalytics]
-
-[buymeacoffee]
-
-[verification]
-
-[rssnext]

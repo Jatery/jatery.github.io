@@ -29,7 +29,7 @@ rssnext = { }
     showScrollToTop = true
 
 [homepage]
-    layout = "page"
+    layout = "background"
     showRecent = true
     showRecentItems = 6
     showMoreLink = true
@@ -37,7 +37,7 @@ rssnext = { }
     cardView = true
     cardViewScreenWidth = false
     layoutBackgroundBlur = true
-    homepageImage = "backgroundimage.jpg"
+    homepageImage = "backgroundimage.jpeg"
 
 [article]
     showDate = true

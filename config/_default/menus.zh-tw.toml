@@ -1,5 +1,7 @@
 [[main]]
-    none = "none"
+    none = "About"
+    pageRef = "about"
+    weight = 0
 
 [[main]]
     name = "Posts"

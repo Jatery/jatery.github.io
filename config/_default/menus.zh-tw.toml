@@ -1,7 +1,12 @@
 [[main]]
-    none = "About"
+    name = "About"
     pageRef = "about"
-    weight = 0
+    weight = 1
+
+[[main]]
+    name = "Now"
+    pageRef = "now"
+    weight = 2
 
 [[main]]
     name = "Posts"

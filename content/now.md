@@ -6,7 +6,7 @@ draft: false
 
 ## Currently Course Learning
 
-- Operating System. Now in CPU scheduling and memory management, I think I'm not ready for the final yet.
+- Operating System. Now in CPU scheduling and memory management, but I think I'm not ready for the final yet.
 - Machine Learning. Professor Lee did a great job, just going to finish the last few homeworks.
 - Computer System Lab. Final project now working on a self-sailing maze-running boat :speedboat:. Not sure how to complete the PID control and the maze algorithm, but other parts are working well.
 
@@ -34,7 +34,7 @@ draft: false
 ## Currently Playing
 
 - Arknights. Have played for almost 5 years, but currently not playing much. Mint lover.
-- Genshin Impact. Have played for over 2 years, but currently not playing much, less than Arknights. Finally going to have a 5-star weapon for LingHua.
+- Genshin Impact. Have played for over 4 years, but currently not playing much, less than Arknights. Finally going to have a 5-star weapon for LingHua.
 - Sky: Children of the Light. Have played on and off for almost 6 years?! Now playing daily with my friend for the new season.
 
 ## Currently Following Animes

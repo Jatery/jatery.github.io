@@ -21,10 +21,10 @@ tags:
 
 - 分類：必修
 - 成績：A
-- 甜度：4
-- 涼度：1
-- 收獲：5
-- 推薦度：5
+- 甜度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}}
+- 涼度：{{<icon "star">}} 
+- 收獲：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 推薦度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
 - 課後時間：3 小時以上/週
 ### 評分方式
 
@@ -51,10 +51,10 @@ tags:
 
 - 分類：必修
 - 成績：A
-- 甜度：3
-- 涼度：5
-- 收獲：2
-- 推薦度：4
+- 甜度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 涼度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 收獲：{{<icon "star">}} {{<icon "star">}} 
+- 推薦度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
 - 課後時間：少於 1 小時/週
 ### 評分方式
 
@@ -82,10 +82,10 @@ tags:
 
 - 分類：指定選修
 - 成績：A
-- 甜度：5
-- 涼度：2
-- 收獲：5
-- 推薦度：5
+- 甜度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 涼度：{{<icon "star">}} {{<icon "star">}} 
+- 收獲：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 推薦度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
 - 課後時間：2 小時/週
 ### 評分方式
 
@@ -108,10 +108,10 @@ Lab \*4 + Final Project 加分
 
 - 分類：指定選修
 - 成績：A-
-- 甜度：3
-- 涼度：5
-- 收獲：3
-- 推薦度：4
+- 甜度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 涼度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 收獲：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 推薦度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
 - 課後時間：少於 1 小時/週
 ### 評分方式
 
@@ -133,10 +133,10 @@ Final 40%
 
 - 分類：指定選修
 - 成績：A+
-- 甜度：5
-- 涼度：1
-- 收獲：5
-- 推薦度：5
+- 甜度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 涼度：{{<icon "star">}} 
+- 收獲：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 推薦度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
 - 課後時間：3 小時/週
 ### 評分方式
 
@@ -164,10 +164,10 @@ Repo 10%
 
 - 分類：指定選修
 - 成績：A+
-- 甜度：5
-- 涼度：4
-- 收獲：4
-- 推薦度：5
+- 甜度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 涼度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 收獲：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 推薦度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
 - 課後時間：1 小時/週
 ### 評分方式
 
@@ -183,10 +183,10 @@ Repo 10%
 
 - 分類：同共必修
 - 成績：A
-- 甜度：5
-- 涼度：5
-- 收獲：3
-- 推薦度：4
+- 甜度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 涼度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 收獲：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 推薦度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
 - 課後時間：少於 1 小時/週
 ### 評分方式
 
@@ -201,10 +201,10 @@ Repo 10%
 
 - 分類：通識 A5
 - 成績：A-
-- 甜度：3
-- 涼度：2
-- 收獲：4
-- 推薦度：3
+- 甜度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 涼度：{{<icon "star">}} {{<icon "star">}} 
+- 收獲：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
+- 推薦度：{{<icon "star">}} {{<icon "star">}} {{<icon "star">}} 
 - 課後時間：3 小時/週
 ### 評分方式
 

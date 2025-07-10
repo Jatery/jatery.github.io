@@ -13,8 +13,41 @@ tags:
   - 鋼琴
   - 和聲
 ---
+## 事前準備
+
+幾乎全部都是靠餅乾寫的心得來準備的，大概也是兩個禮拜前開始每天坐到鋼琴前看能不能搞出什麼新花樣…
+
+大概參考好和弦的有個大方向先：
+
+[聽寫 - 好和弦](https://youtu.be/F_TGiv1SIeA?si=1p83KN17uL8OjIo4)
+
+接下來是幾個練習網站：
+
+- 音程
+	- [Interval Ear Training - musictheory.net](https://www.musictheory.net/exercises/ear-interval)
+	- [音程名稱 - 好和弦](https://youtu.be/QLDktqMxgmY?si=WbXrZTZuyUuyDB7t)
+- 單旋律、節奏、和弦進行：考前兩天直接找範例試題
+- 四部合聲
+	- [四部合聲 - 好和弦](https://youtu.be/2RGGuH14BUc?si=pl29ZAN4RTj7TZMp)
+	- [partwriter.com](https://partwriter.com/#) 操作很麻煩但應該還算準確的四部合聲檢查器
+- 音程
+	- [Interval Identification - musictheory.net](https://www.musictheory.net/exercises/interval)
+- 和弦
+	- [Chord Construction - musictheory.net](https://www.musictheory.net/exercises/chord-construction)
+- 音階
+	- [我的霹靂貓阿洛 - 好和弦](https://www.youtube.com/watch?v=XdDpSGEdIbo)
+	- [Scale Construction - musictheory.net](https://www.musictheory.net/exercises/scale-construction)
+- 鍵盤轉調
+	- [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+- 其他
+	- [自選曲 - ptt](https://www.ptt.cc/bbs/piano/M.1203055431.A.62C.html)
+
+以及最後當然有的餅乾之前的心得
+
+[2024/7/10 師大跨校輔系](https://www.notion.so/2024-7-10-1e6618bce20d492fa463ac69d1b909df?pvs=21)
+
 ## 筆試
-9:20 報到，但公車搞得 25 分左右到，是最後一個。今年有七個人來考，樂器忘了，但只有我一個理論作曲的。下午剩兩個鋼琴、我、兩個小提、一個單簧管，共六個。\
+9:20 報到，但公車搞得 25 分左右到，是最後一個。今年有七個人來考，主修樂器忘了，但只有我一個理論作曲的。下午剩兩個鋼琴、我、兩個小提、一個單簧管，共六個。\
 9:30~10:30，但是以當下計時，所以 10:22 就結束了。
 ### 聽寫
 #### 音程九題 9%
@@ -26,7 +59,7 @@ tags:
 鋼琴，有給第一拍
 #### 和聲 14%
 寫低音與和弦代號
-### 筆試 30 min
+### 樂理 30 min
 #### 四部和聲 20%
 結果沒寫完 :)\
 非常後悔剩下時間沒有 all in 這裡。
@@ -49,8 +82,8 @@ tags:
 彈超慢還彈錯一個，但其他都是對的所以會過吧。
 #### 鍵盤轉調
 當場喊當場彈
-G-D，我彈G-A-D
-C-Ab，我彈C-Em-Edim7-Ab/Eb-Eb7-Ab，嗯，絕對是彈錯了
+G-D，我彈 G-A-D
+C-Ab，我彈 C-Em-Edim7-Ab/Eb-Eb7-Ab，嗯，絕對是彈錯了
 #### 曲式
 彈的是 Royku，還是讓我彈到了副歌結束，但真的沒練好所以彈得很爛 \
 D 大調 verse-chorus form \

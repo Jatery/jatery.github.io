@@ -1,23 +1,23 @@
 [[main]]
     name = "About"
-    pageRef = "/about/"
-    weight = 1
+    pageRef = "about"
+    weight = 10
 
 [[main]]
     name = "Now"
-    pageRef = "/now/"
-    weight = 2
+    pageRef = "now"
+    weight = 20
 
 [[main]]
     name = "Posts"
     pageRef = "/posts/"
     identifier = "O2yoyGnVHs"
-    weight = 10
+    weight = 30
 
 [[main]]
     name = "Tags"
     pageRef = "tags"
-    weight = 20
+    weight = 40
 
 [[footer]]
     none = "none"

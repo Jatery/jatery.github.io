@@ -1,7 +1,7 @@
 ---
 title: "202506 大阪、京都"
 date: 2025-07-10
-draft: true
+draft: false
 description: "日本自由行的心得"
 tags: ["心得", "日本"]
 ---

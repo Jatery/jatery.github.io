@@ -8,8 +8,8 @@ disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
-defaultBackgroundImage = "backgroundimage.jpeg"
-defaultFeaturedImage = "backgroundimage.jpeg"
+defaultBackgroundImage = "backgroundimage.jpg"
+defaultFeaturedImage = "default.jpeg"
 firebase = { }
 fathomAnalytics = { }
 umamiAnalytics = { }
@@ -37,7 +37,7 @@ rssnext = { }
     cardView = true
     cardViewScreenWidth = false
     layoutBackgroundBlur = true
-    homepageImage = "backgroundimage.jpeg"
+    homepageImage = "backgroundimage.jpg"
 
 [article]
     showDate = true

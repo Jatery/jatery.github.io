@@ -8,7 +8,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
-defaultBackgroundImage = "backgroundimage.jpg"
+defaultBackgroundImage = "backgroundimage.jpeg"
 defaultFeaturedImage = "default.jpeg"
 firebase = { }
 fathomAnalytics = { }
@@ -37,7 +37,7 @@ rssnext = { }
     cardView = true
     cardViewScreenWidth = false
     layoutBackgroundBlur = true
-    homepageImage = "backgroundimage.jpg"
+    homepageImage = "backgroundimage.jpeg"
 
 [article]
     showDate = true
@@ -46,7 +46,7 @@ rssnext = { }
     showDateOnlyInArticle = false
     showDateUpdated = true
     showAuthor = true
-    showHero = false
+    showHero = true
     showSummary = true
     layoutBackgroundBlur = true
     layoutBackgroundHeaderSpace = true
@@ -59,12 +59,12 @@ rssnext = { }
     showPagination = true
     invertPagination = false
     showReadingTime = true
-    showTableOfContents = true
+    showTableOfContents = false
     showTaxonomies = false
     showAuthorsBadges = false
     showWordCount = true
-    showZenMode = true
-    showRelatedContent = true
+    showZenMode = false
+    showRelatedContent = false
     relatedContentLimit = 3
 
 [list]

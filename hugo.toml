@@ -1,6 +1,6 @@
 baseURL = 'https://jatery.github.io/'
 languageCode = 'zh-tw'
-title = 'My New Hugo Site'
+title = 'Jatery\'s Blog'
 
 [caches]
   [caches.images]

@@ -2,7 +2,7 @@
     languageCode = "zh-tw"
     languageName = "Chinese (Traditional)"
     weight = 1
-    title = "Jatery Chen"
+    title = "Jatery's Blog"
 
 [params]
     displayName = "ZH-TW"
@@ -15,13 +15,12 @@
     name = "Jatery Chen"
     image = "profile.jpg"
     imageQuality = 96
-    headline = "Why I'm writing this?"
-    bio = "anxious undergraduate"
+    headline = "一點生活記錄"
+    bio = "手沾程式和音樂的資工系學生"
     links = [
         { github = "https://github.com/Jatery" },
-        { linkedin = "https://www.linkedin.com/in/彥璋-陳-80a368356" },
-        { x-twitter = "https://x.com/bluefatbird" },
+        { instagram = "https://www.instagram.com/cyz_jatery/" },
+        { threads = "https://www.threads.com/@cyz_jatery" },
         { youtube = "https://www.youtube.com/@bluefatbird" },
         { soundcloud = "https://soundcloud.com/bluefatbird" },
-        { instagram = "https://www.instagram.com/cyz_jatery/" },
     ]

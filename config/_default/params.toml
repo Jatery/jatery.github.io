@@ -1,4 +1,4 @@
-colorScheme = "autumn"
+colorScheme = "fire"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
@@ -14,7 +14,6 @@ firebase = { }
 fathomAnalytics = { }
 umamiAnalytics = { }
 selineAnalytics = { }
-buymeacoffee = { }
 verification = { }
 rssnext = { }
 
@@ -34,7 +33,7 @@ rssnext = { }
     showRecentItems = 6
     showMoreLink = true
     showMoreLinkDest = "/posts/"
-    cardView = true
+    cardView = false
     cardViewScreenWidth = false
     layoutBackgroundBlur = true
     homepageImage = "backgroundimage.jpeg"
@@ -46,7 +45,7 @@ rssnext = { }
     showDateOnlyInArticle = false
     showDateUpdated = true
     showAuthor = true
-    showHero = true
+    showHero = false
     showSummary = true
     layoutBackgroundBlur = true
     layoutBackgroundHeaderSpace = true
@@ -104,3 +103,10 @@ rssnext = { }
     groupByYear = false
     cardView = ""
     cardViewScreenWidth = false
+
+[buymeacoffee]
+    identifier = "jatery"
+    globalWidget = true
+    globalWidgetMessage = "Hello"
+    globalWidgetColor = "#FFDD00"
+    globalWidgetPosition = "Right"

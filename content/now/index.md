@@ -1,6 +1,6 @@
 ---
 title: What I'm Doing Now
-date: 2025-07-10
+date: 2025-09-02
 draft: false
 ---
 

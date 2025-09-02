@@ -107,6 +107,6 @@ rssnext = { }
 [buymeacoffee]
     identifier = "jatery"
     globalWidget = true
-    globalWidgetMessage = "Hello"
+    globalWidgetMessage = "買我一杯咖啡 ☕️"
     globalWidgetColor = "#FFDD00"
     globalWidgetPosition = "Right"

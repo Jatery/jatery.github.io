@@ -38,7 +38,7 @@ https://greghowlett.com/blog/free-lessons/how-to-use-the-half-diminished-chord.a
 
 {{< youtubeLite id="CnET7ZNNV00" label="Walking by the Sea" params="start=218" >}}
 
-![Walking by the Sea 譜例](Pasted%20image%2020250930014522.png)
+![Walking by the Sea 譜例](featured.png)
 
 可以看到 $83$~$84$ 小節出現了 G 大調的 `v7-#IVø-IVM7`，小差別在於他用的是借用的 `v7` 而非 `V7`，多一點小調的色彩。
 
@@ -54,7 +54,7 @@ https://greghowlett.com/blog/free-lessons/how-to-use-the-half-diminished-chord.a
 
 直接看例子：
 
-{{< youtubeLite id="7EuTPTVpuNI" label="コネクト"　params="start=10" >}}
+{{< youtubeLite id="7EuTPTVpuNI" label="コネクト" params="start=10" >}}
 
 是常見的 4536 耶…又好像不太一樣？
 

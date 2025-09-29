@@ -44,7 +44,10 @@ https://greghowlett.com/blog/free-lessons/how-to-use-the-half-diminished-chord.a
 
 ### 驛站
 
-![驛站音檔](14.mp3)
+<audio controls preload="auto">
+    <source src="14.mp3">
+</audio>
+
 
 ![驛站譜例](Pasted%20image%2020250930014638.png)
 

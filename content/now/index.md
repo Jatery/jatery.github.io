@@ -1,51 +1,47 @@
 ---
 title: What I'm Doing Now
-date: 2025-09-10
+date: 2025-10-23
 draft: false
 ---
 ## 課上學習
 
-進入了 114-1，現在同時是台大資工大三生與師大音樂作曲組輔系一年級。這學期應該就只有兩邊的必修就差不多了，列一下的話：
+目前是台大資工大三生，同時師大音樂作曲組輔系一年級。這學期只有兩邊的必修：
 
 - **資工系**：
     - **自動機**[^1]
-    - **計結**、**計網**[^2]
-    - 去年沒過的 **SP**[^3]
+    - **計結**、**計網**[^2]（CA、CN）
+    - **SP**[^3]
 - **音樂系**：
     - **樂曲分析**
-    - **高級和聲學**（簡稱高和，高和再不開的話我的高和要寫不出來了）
+    - **高級和聲學**（高和）
     - **對位與賦格**
     - **配器法**
     - 以及個別課**理論作曲**
 
 另外還當了 NASA[^4] 的 TA，雖然沒接多少工作，但估且還是有些份量的，應該也算在課上學習吧。
 
-啊，還加了系上 [Maker Reality Space](https://www.facebook.com/profile.php?id=61553921554669) 的管理員。
+也是系上 [Maker Reality Space](https://www.facebook.com/profile.php?id=61553921554669) 的管理員。
 
 ## 課外學習
 
-課應該已經多到不需要課外學習了吧。
+暫無。
 
 ## 專案
 
-- 拿 ESP32-C3[^5] 和 OLED[^6] 做了自製的 [Dasai Mochi](https://themochi.huykhong.com/)，卡在中文 UTF-8 支援問題，然後焊接與印殼。
+- [Dasai Mochi](https://themochi.huykhong.com/)。
 
 ## 還參加了什麼
 
-- [台大直笛團](https://www.facebook.com/nturecorderorchestra)：新學期繼續指揮，雖然感覺沒什麼喜歡的曲子。近期有社聯（9/6）的表演。
-- [DMCC](https://www.facebook.com/NTUDigitalMusic)：直笛團練團時間改到週三，這邊就去不了了。
-- 其他社團也在社聯看一下。
-- 報了電資交響的指揮，算是第一次參加交響樂團，雖然只指了一首。順利的話表演在 11/17 ~ 11/21 晚間。
+- [台大直笛團](https://www.facebook.com/nturecorderorchestra)：新學期繼續指揮，公演在明年的 1/4 下午。
+- [DMCC](https://www.facebook.com/NTUDigitalMusic)：直笛團練團時間改到週三，這邊就去不了了，看看會不會出現在組聚。
+- 電資交響：Hungarian Dance No.1 的指揮，Danzon No.2 與 Waltz No.2 的鋼琴，與芙莉蓮的打擊。演出在 11/18 晚上。
 
 ## 遊戲
 
-- **光遇**：還是備選社交遊戲。
-- **夏日口袋**：玩完蒼線和紬線就懶了，有空補動畫吧。
+無。
 
 ## 動畫
 
-- **青豬大學篇**
-- **Silent Witch**
 - **琉璃的寶石**
 
 ## 書籍
@@ -58,13 +54,13 @@ draft: false
 - 楊双子 **《臺灣漫遊錄》**
 - 鈴木大輔 **《双子探偵 詩愛&心逢》**：在日本買的文庫本大小的輕小說，有上下兩冊，通勤時慢慢一點一點看，現在大概才在第一冊 1/3 多而已。
 
+## 其他
+
+最近在 threads 上比較活躍。
+
 > https://nownownow.com/about
 
 [^1]: 自動機與形式語言
 [^2]: 計算機結構、計算機網路
 [^3]: 系統程式設計
 [^4]: 網路管理與系統管理
-[^5]: https://www.espboards.dev/esp32/esp32-c3-super-mini/
-[^6]: https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/
-
-

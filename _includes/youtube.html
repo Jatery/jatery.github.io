@@ -1,0 +1,9 @@
+<div class="youtube">
+  <iframe
+    src="https://www.youtube.com/embed/{{ include.id }}{% if include.params %}?{{ include.params }}{% endif %}"
+    title="{{ include.label }}"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>

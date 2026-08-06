@@ -1,7 +1,0 @@
-baseURL = 'https://jatery.github.io/'
-languageCode = 'zh-tw'
-title = 'Jatery'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'

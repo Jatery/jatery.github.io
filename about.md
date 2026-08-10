@@ -12,6 +12,6 @@ You can find the source code for Minima at GitHub:
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 
-![avatar](/assets/img/avatar.jpg)
+![avatar](/assets/images/avatar.jpg)
 
 [jekyll-organization]: https://github.com/jekyll

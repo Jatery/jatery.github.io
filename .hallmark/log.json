@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-08-24",
+    "scope": "homepage",
+    "macrostructure": "Long Document",
+    "theme": "Plain personal",
+    "enrichment": "E8 supplied portrait + real Ryoku score",
+    "nav": "N1 minimal wordmark navigation",
+    "footer": "Ft4 quiet colophon",
+    "brief": "Simplify the Jekyll homepage into a plain, readable personal entry"
+  },
+  {
+    "date": "2026-08-24",
+    "scope": "homepage",
+    "macrostructure": "Split Studio",
+    "theme": "Studio",
+    "enrichment": "E8 supplied portrait + real Ryoku score",
+    "nav": "N6 compact Newspaper Masthead",
+    "footer": "Ft2 Inline single line",
+    "brief": "Jekyll content refactor with real selected-work proof"
+  },
+  {
+    "date": "2026-08-24",
+    "scope": "app",
+    "macrostructure": "Split Studio",
+    "theme": "Studio",
+    "enrichment": "E8 supplied portrait",
+    "nav": "N6 compact Newspaper Masthead",
+    "footer": "Ft2 Inline single line",
+    "brief": "Jatery personal homepage and informal Now page on Minimal Mistakes"
+  }
+]

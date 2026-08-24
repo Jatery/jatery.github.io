@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-24",
+  "project": "Jatery/jatery.github.io",
+  "stack": "Jekyll 3.10 via GitHub Pages with Minimal Mistakes remote theme",
+  "pages": {
+    "_pages/home.md": "Homepage content for the custom Hero, About, Selected, and Contact layout.",
+    "_pages/now.md": "Informal side page for current interests.",
+    "_pages/404.html": "Error page moved into the included pages directory.",
+    "_posts": "Long-form posts are preserved locally and excluded from this homepage build."
+  },
+  "assets": {
+    "assets/images/about.jpg": "Supplied 300x400 portrait, subject looking right; used left of hero copy."
+  },
+  "design_system": "Minimal Mistakes provides the base structure; project tokens and layouts live in _sass, _layouts, and design.md.",
+  "risks": [
+    "GitHub Pages user sites require an empty baseurl",
+    "the remote theme needs network access during a clean local build",
+    "the unpublished posts directory must stay excluded until the blog is ready",
+    "new homepage copy may need later personal revision"
+  ],
+  "preserve": [
+    "Minimal Mistakes and Jekyll",
+    "existing portrait",
+    "existing posts and embeds",
+    "the user’s unpublished post outside this commit"
+  ]
+}

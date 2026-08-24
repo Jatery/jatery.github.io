@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: "/#about"
+  - title: "Selected"
+    url: "/#selected"
+  - title: "Now"
+    url: "/now/"

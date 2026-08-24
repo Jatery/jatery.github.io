@@ -1,0 +1,24 @@
+---
+layout: splash
+---
+
+<main class="jatery-now">
+  <header class="now-header">
+    <div>
+      <h1>{{ page.title }}</h1>
+      <p class="now-updated"><time datetime="{{ page.updated }}">Updated {{ page.updated_label }}</time></p>
+    </div>
+    <p>{{ page.intro }}</p>
+  </header>
+
+  <div class="now-list">
+    {% for item in site.data.now %}
+      <section class="now-item">
+        <h2>{{ item.title }}</h2>
+        <p>{{ item.text }}</p>
+      </section>
+    {% endfor %}
+  </div>
+
+  <p class="now-back"><a href="{{ '/' | relative_url }}">← Back home</a></p>
+</main>

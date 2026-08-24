@@ -1,0 +1,45 @@
+---
+layout: splash
+---
+
+<main class="jatery-home">
+  <section class="home-hero" aria-labelledby="home-title">
+    <figure class="home-portrait">
+      <img
+        src="{{ '/assets/images/about.jpg' | relative_url }}"
+        alt="Portrait of Jatery Chen"
+        width="300"
+        height="400"
+        fetchpriority="high"
+      >
+    </figure>
+
+    <div class="home-hero__copy">
+      <h1 id="home-title">{{ page.title }}</h1>
+      <p class="home-hero__lede">{{ page.hero_intro }}</p>
+      <p>{{ page.hero_detail }}</p>
+    </div>
+  </section>
+
+  <section class="home-section home-about" id="about" aria-labelledby="about-title">
+    <header class="home-section__head">
+      <h2 id="about-title">About</h2>
+    </header>
+
+    <div class="home-about__body">
+      {{ content }}
+    </div>
+  </section>
+
+  {% include selected-things.html %}
+
+  <section class="home-section home-contact" id="contact" aria-labelledby="contact-title">
+    <h2 id="contact-title">Say hello</h2>
+    <p>{{ page.contact_intro }}</p>
+    <nav class="home-contact__links" aria-label="Contact links">
+      {% for link in page.contact_links %}
+        <a href="{{ link.url }}">{{ link.label }}</a>
+      {% endfor %}
+    </nav>
+  </section>
+</main>

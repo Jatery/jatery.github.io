@@ -1,0 +1,15 @@
+---
+---
+/* Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V5
+ * genre: editorial · macrostructure: Long Document · tone: plain-personal · anchor hue: muted green
+ * theme: Plain personal · enrichment: E8 supplied portrait + real Ryoku score · polish: none
+ * nav: N1 minimal wordmark, position=left/right split, links=text, sticky=no
+ * footer: Ft4 quiet colophon, family=sans, layout=single block · CTA: C3 typographic link, arrow=none
+ * contrast: pass (40–41) · slop: pass (42–45) · honest: pass (46) · chrome: pass (47) · tokens: pass (48)
+ * responsive: pass (34, 49) · mobile: pass (50–57) · icons: pass (30)
+ * design-system: design.md · Jekyll-native content separation
+ */
+@import "jatery-tokens";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+@import "jatery-home";

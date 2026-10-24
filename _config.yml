@@ -6,9 +6,11 @@ plugins:
 
 minimal_mistakes_skin: "default"
 
+sass:
+  style: compressed
+
 locale: "en-US"
 title: "Jatery Chen"
-masthead_title: "JATERY"
 description: "The personal site of Jatery Chen, with software and music."
 url: "https://jatery.github.io"
 baseurl: ""
@@ -18,8 +20,8 @@ github_username: "Jatery"
 
 author:
   name: "Jatery Chen"
-  avatar: "/assets/images/about.jpg"
-  bio: "I build software and write music."
+  avatar: "/assets/images/about.avif"
+  bio: "What's composing, engraving...or constructing?"
   location: "Taiwan"
   links:
     - label: "Email"
@@ -28,6 +30,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Jatery"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@bluefatbird"
+
 
 atom_feed:
   hide: true
@@ -35,11 +41,16 @@ atom_feed:
 include:
   - "_pages"
 
+collections:
+  now:
+    output: false
+
 exclude:
   - ".hallmark"
   - "_posts"
   - "assets/images/Ryoku.png"
-  - "design.md"
+  - "assets/images/origami-tessellation-2026-09.jpg"
+  - "README.md"
 
 defaults:
   - scope:
